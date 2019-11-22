@@ -3,6 +3,8 @@ name = "compile-time-crc32-impl"
 version = "0.1.0"
 authors = ["jam1garner <jam1.mcleod@hotmail.com>"]
 edition = "2018"
+description = "A library for taking the crc32 of a string or byte literal at compile time"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
