@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+Cargo.lock
+compile-time-crc32/target
+compile-time-crc32/**/*.rs.bk
+compile-time-crc32/Cargo.lock
